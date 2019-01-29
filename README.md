@@ -1,2 +1,2 @@
-# Java-2D-graphics
-Simple java 2D graphic generater
+# Java_2D_graphics
+
