@@ -1,2 +1,2 @@
-# Java_2D_graphics
+# Java 2D graphics
 
